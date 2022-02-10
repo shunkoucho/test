@@ -1,2 +1,2 @@
 print("Hello world!")
-print(555+66+6)
+print(555+66)
